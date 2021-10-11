@@ -1,0 +1,13 @@
+.idea
+.ipynb_checkpoints
+catboost_info
+data
+*.png
+**/.DS_Store
+__pycache__
+bin
+etc 
+lib
+pip-selfcheck.json
+pyvenv.cfg
+share
